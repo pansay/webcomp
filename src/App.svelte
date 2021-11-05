@@ -1,3 +1,4 @@
+<svelte:options tag="my-element" />
 <script>
 	export let name;
 </script>
